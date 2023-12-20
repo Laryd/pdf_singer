@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/Laryd/pdf_singer/compare/v0.1.3...v0.1.4) (2023-12-20)
+
+
+### Bug Fixes
+
+* merge tailwind classes added and applied ([4561279](https://github.com/Laryd/pdf_singer/commit/4561279177a0d7548d3e1d130c617ef0e8e11272))
+
 ### [0.1.3](https://github.com/Laryd/pdf_singer/compare/v0.1.2...v0.1.3) (2023-12-20)
 
 
