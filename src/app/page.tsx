@@ -1,6 +1,6 @@
-import Image from 'next/image'
+import Link from "next/link"
 import MaxWidthWrapper from './components/MaxWidthWrapper'
-
+import {ArrowRight} from "lucide-react"
 export default function Home() {
   return (
       <MaxWidthWrapper classname='mb-12 mt-28 sm:mt-40 flex flex-col items-center justify-center text-center'>
@@ -9,6 +9,11 @@ export default function Home() {
                     pdf_singer is now public
                   </p>
                 </div>
+                <h1 className='max-w-4xl text-5xl font-bold md:text-6xl lg:text-7xl'>
+                  Chat with your <span className='text-blue-600'>document</span> in seconds
+                </h1>
+                <p className="mt-5 max-w-prose text-zinc-700 sm:text-lg">pdf_singer allows you to have conversations with any PDF document. Simply upload your file and start asking questions right away</p>
+                <Link href="/dashboard" target="_blank"></Link>
       </MaxWidthWrapper>
   )  
 }
