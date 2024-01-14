@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.7](https://github.com/Laryd/pdf_singer/compare/v0.1.6...v0.1.7) (2024-01-14)
+
+
+### Features
+
+* login and signup kinde button add ([90cb7ea](https://github.com/Laryd/pdf_singer/commit/90cb7eac917bd53582255158dc9bf0252849ceb9))
+
 ### [0.1.6](https://github.com/Laryd/pdf_singer/compare/v0.1.5...v0.1.6) (2024-01-13)
 
 ### [0.1.5](https://github.com/Laryd/pdf_singer/compare/v0.1.4...v0.1.5) (2024-01-13)
