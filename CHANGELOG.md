@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.8](https://github.com/Laryd/pdf_singer/compare/v0.1.7...v0.1.8) (2024-01-14)
+
+
+### Bug Fixes
+
+* folder structure change ([83e45e7](https://github.com/Laryd/pdf_singer/commit/83e45e7bd148c8a787b96012cd2cfc0e7d8d8cc3))
+
 ### [0.1.7](https://github.com/Laryd/pdf_singer/compare/v0.1.6...v0.1.7) (2024-01-14)
 
 
