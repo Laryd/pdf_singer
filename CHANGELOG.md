@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.10](https://github.com/Laryd/pdf_singer/compare/v0.1.9...v0.1.10) (2024-01-15)
+
+
+### Features
+
+* prisma and mysql database from planetscale add ([1710dd3](https://github.com/Laryd/pdf_singer/commit/1710dd367ea2a91c191865ce798d5fcce2379064))
+* trpc auth-callback add ([d4c557c](https://github.com/Laryd/pdf_singer/commit/d4c557c17f0bd1c3847e7a709cbd285af4c65e43))
+
 ### [0.1.9](https://github.com/Laryd/pdf_singer/compare/v0.1.8...v0.1.9) (2024-01-15)
 
 
