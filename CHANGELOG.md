@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.9](https://github.com/Laryd/pdf_singer/compare/v0.1.8...v0.1.9) (2024-01-15)
+
+
+### Features
+
+* trpc setup add ([fb8c03a](https://github.com/Laryd/pdf_singer/commit/fb8c03ae239b72b2be4320925d23d973870a13dd))
+
+
+### Bug Fixes
+
+* inline style removed ([6003ad9](https://github.com/Laryd/pdf_singer/commit/6003ad920a4f3e7d145fa89e67aa60772eec5d64))
+
 ### [0.1.8](https://github.com/Laryd/pdf_singer/compare/v0.1.7...v0.1.8) (2024-01-14)
 
 
