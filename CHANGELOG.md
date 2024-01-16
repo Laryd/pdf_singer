@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.11](https://github.com/Laryd/pdf_singer/compare/v0.1.10...v0.1.11) (2024-01-16)
+
+
+### Bug Fixes
+
+* trpc route.ts export handlers fix ([9c7ae45](https://github.com/Laryd/pdf_singer/commit/9c7ae45c175e05bbb3d0c76c33eb36a7702341a5))
+
 ### [0.1.10](https://github.com/Laryd/pdf_singer/compare/v0.1.9...v0.1.10) (2024-01-15)
 
 
