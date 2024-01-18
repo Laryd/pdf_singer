@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.13](https://github.com/Laryd/pdf_singer/compare/v0.1.12...v0.1.13) (2024-01-18)
+
+
+### Features
+
+* delete implemented on dashboard ([92b048e](https://github.com/Laryd/pdf_singer/commit/92b048e3f58dcfbca2be93bd3e1d12f5237966ea))
+* delete trpc endpoint add ([5393da9](https://github.com/Laryd/pdf_singer/commit/5393da9f2018e423bde7a1c9da2e214146c228fb))
+* file view page add ([feab6a9](https://github.com/Laryd/pdf_singer/commit/feab6a978fe9846a826dd915603fda3afcfe120c))
+
 ### [0.1.12](https://github.com/Laryd/pdf_singer/compare/v0.1.11...v0.1.12) (2024-01-17)
 
 ### [0.1.11](https://github.com/Laryd/pdf_singer/compare/v0.1.10...v0.1.11) (2024-01-16)
