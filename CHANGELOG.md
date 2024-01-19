@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.15](https://github.com/Laryd/pdf_singer/compare/v0.1.14...v0.1.15) (2024-01-19)
+
+
+### Features
+
+* upload functionality uploadthing and api call add ([dae7135](https://github.com/Laryd/pdf_singer/commit/dae7135afd13c3a0f296509e0bdc41fe93575844))
+
 ### [0.1.14](https://github.com/Laryd/pdf_singer/compare/v0.1.13...v0.1.14) (2024-01-18)
 
 
