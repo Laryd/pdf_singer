@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.17](https://github.com/Laryd/pdf_singer/compare/v0.1.16...v0.1.17) (2024-01-20)
+
+
+### Features
+
+* pdf rendering add ([603deaf](https://github.com/Laryd/pdf_singer/commit/603deaf34f8d3483c7ac96667390b88285b7ff3f))
+
 ### [0.1.16](https://github.com/Laryd/pdf_singer/compare/v0.1.15...v0.1.16) (2024-01-20)
 
 
