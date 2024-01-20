@@ -48,6 +48,8 @@ const appRouter = router({
       }
     })
     if(!file) throw new TRPCError({code: "NOT_FOUND"})
+
+    return file
   }),
   deleteFile: privateProcedure
     .input(z.object({ id: z.string() }))
@@ -66,7 +68,7 @@ const appRouter = router({
         },
       });
 
-      return file
+     return file
     }),
 
   
