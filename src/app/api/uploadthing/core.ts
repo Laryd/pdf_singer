@@ -18,14 +18,14 @@ export const ourFileRouter = {
     })
     .onUploadComplete(async ({ metadata, file }) => {
       const createdFile = await db.file.create({
-          data: {
-            key: file.key,
-            name: file.name,
-            userId: metadata.userId,
-            url: `https://uploadthing-prod.s3.us-west-2.amazanaws.com/${file.key}`,
-            uploadStatus: "PROCESSING"
-          }
-      })
+        data: {
+          key: file.key,
+          name: file.name,
+          userId: metadata.userId,
+          url: `https://utfs.io/f/${file.key}`,
+          uploadStatus: "PROCESSING",
+        },
+      });
     }),
 } satisfies FileRouter;
 
