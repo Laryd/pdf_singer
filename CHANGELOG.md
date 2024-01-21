@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.19](https://github.com/Laryd/pdf_singer/compare/v0.1.18...v0.1.19) (2024-01-21)
+
+
+### Features
+
+* pdf page navigation add ([41d3430](https://github.com/Laryd/pdf_singer/commit/41d34303df02113ac1aaaeeb4227225517e9cc7d))
+
 ### [0.1.18](https://github.com/Laryd/pdf_singer/compare/v0.1.17...v0.1.18) (2024-01-20)
 
 
