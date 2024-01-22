@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.20](https://github.com/Laryd/pdf_singer/compare/v0.1.19...v0.1.20) (2024-01-22)
+
+
+### Features
+
+* zoom pdf option add ([0ef7d3e](https://github.com/Laryd/pdf_singer/commit/0ef7d3e08ab979844d8b0dcdd7ba67d227c254ba))
+
 ### [0.1.19](https://github.com/Laryd/pdf_singer/compare/v0.1.18...v0.1.19) (2024-01-21)
 
 
