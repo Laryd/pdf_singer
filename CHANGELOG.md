@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.22](https://github.com/Laryd/pdf_singer/compare/v0.1.21...v0.1.22) (2024-01-22)
+
+
+### Features
+
+* fullscreen and noflicker on render on pdf add ([5c1016a](https://github.com/Laryd/pdf_singer/commit/5c1016a08d6dcaf1c2b72f0c0462efc91554f7a1))
+
 ### [0.1.21](https://github.com/Laryd/pdf_singer/compare/v0.1.20...v0.1.21) (2024-01-22)
 
 
