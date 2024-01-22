@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.21](https://github.com/Laryd/pdf_singer/compare/v0.1.20...v0.1.21) (2024-01-22)
+
+
+### Features
+
+* rotation pdf option ([f5f9d72](https://github.com/Laryd/pdf_singer/commit/f5f9d728a1bcfbf85d95cdd7e2cfee0cb91f353e))
+
 ### [0.1.20](https://github.com/Laryd/pdf_singer/compare/v0.1.19...v0.1.20) (2024-01-22)
 
 
