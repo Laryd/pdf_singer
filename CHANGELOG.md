@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.24](https://github.com/Laryd/pdf_singer/compare/v0.1.23...v0.1.24) (2024-01-22)
+
+
+### Features
+
+* uploadStatus endpoint and frontend add ([fa7affe](https://github.com/Laryd/pdf_singer/commit/fa7affe38a44d82c250a0b824d12b0d7c2c34345))
+
 ### [0.1.23](https://github.com/Laryd/pdf_singer/compare/v0.1.22...v0.1.23) (2024-01-22)
 
 
