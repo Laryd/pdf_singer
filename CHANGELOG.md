@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.25](https://github.com/Laryd/pdf_singer/compare/v0.1.24...v0.1.25) (2024-01-22)
+
+
+### Features
+
+* chat input add ([a4f5c02](https://github.com/Laryd/pdf_singer/commit/a4f5c0231b6927792d0a5106b32c10faf683875e))
+
 ### [0.1.24](https://github.com/Laryd/pdf_singer/compare/v0.1.23...v0.1.24) (2024-01-22)
 
 
