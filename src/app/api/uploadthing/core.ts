@@ -52,7 +52,7 @@ export const ourFileRouter = {
           namespace: createdFile.id
         } )
 
-        db.file.update({
+        await db.file.update({
           data: {
             uploadStatus: "SUCCESS"
           }, 
