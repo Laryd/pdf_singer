@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.26](https://github.com/Laryd/pdf_singer/compare/v0.1.25...v0.1.26) (2024-01-23)
+
+
+### Features
+
+* embeddings from openai and adding to pinecone ([67fb65e](https://github.com/Laryd/pdf_singer/commit/67fb65e837dd0b4ad7100dfa1bcdf1528abaac5d))
+
 ### [0.1.25](https://github.com/Laryd/pdf_singer/compare/v0.1.24...v0.1.25) (2024-01-22)
 
 
