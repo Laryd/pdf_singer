@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.27](https://github.com/Laryd/pdf_singer/compare/v0.1.26...v0.1.27) (2024-01-24)
+
+
+### Features
+
+* messages display and infinite query ([fdd0746](https://github.com/Laryd/pdf_singer/commit/fdd0746ac6027f4de4bec49a409758777714a562))
+* stream messages add ([544cfc3](https://github.com/Laryd/pdf_singer/commit/544cfc3c564c99cebd2c5dbc79bced164d119b62))
+
+
+### Bug Fixes
+
+* fixed db update for status change ([1340946](https://github.com/Laryd/pdf_singer/commit/134094691dbb9d4ed5e9235f5101f1939e95ad64))
+
 ### [0.1.26](https://github.com/Laryd/pdf_singer/compare/v0.1.25...v0.1.26) (2024-01-23)
 
 
