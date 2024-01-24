@@ -2,7 +2,7 @@ import { db } from "@/db";
 import { SendMessageValidator } from "@/lib/validators/SendMessageValidator";
 import { getKindeServerSession } from "@kinde-oss/kinde-auth-nextjs/server";
 import { NextRequest } from "next/server";
-import { OpenAIEmbeddings } from "langchain/embeddings/openai";
+import { OpenAIEmbeddings } from "@langchain/openai";
 import { pinecone } from "@/lib/pinecone";
 import { PineconeStore } from "langchain/vectorstores/pinecone";
 import { openai } from "@/lib/openai";
@@ -55,7 +55,7 @@ export const POST = async (req: NextRequest) => {
       fileId,
     },
     orderBy: {
-      reatedAt: "asc",
+      createdAt: "asc",
     },
     take: 6,
   });
