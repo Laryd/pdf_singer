@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.28](https://github.com/Laryd/pdf_singer/compare/v0.1.27...v0.1.28) (2024-01-24)
+
+
+### Features
+
+* chat input display without optimistic updates ([89f4c54](https://github.com/Laryd/pdf_singer/commit/89f4c54c7afda106e3c1c5bf14cc56315ce1dcee))
+* optimistic updates add ([ba727cc](https://github.com/Laryd/pdf_singer/commit/ba727cc633fd3a11e8e58b459e204b9e41b29155))
+
 ### [0.1.27](https://github.com/Laryd/pdf_singer/compare/v0.1.26...v0.1.27) (2024-01-24)
 
 
