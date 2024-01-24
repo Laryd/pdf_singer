@@ -3,8 +3,8 @@ import { getKindeServerSession } from "@kinde-oss/kinde-auth-nextjs/server";
 import { createUploadthing, type FileRouter } from "uploadthing/next";
 import {PDFLoader} from "langchain/document_loaders/fs/pdf"
 import { pinecone } from "@/lib/pinecone";
-import {OpenAIEmbeddings} from "langchain/embeddings/openai"
-import {PineconeStore} from "langchain/vectorstores/pinecone"
+import {OpenAIEmbeddings} from "@langchain/openai"
+import {PineconeStore} from "@langchain/pinecone"
 const f = createUploadthing();
 
 export const ourFileRouter = {
