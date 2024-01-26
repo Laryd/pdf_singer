@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.30](https://github.com/Laryd/pdf_singer/compare/v0.1.29...v0.1.30) (2024-01-26)
+
+
+### Features
+
+* pricing page and stripe implement ([d8a76c4](https://github.com/Laryd/pdf_singer/commit/d8a76c4109dc7e424ede42f5f2c73ea1dfbe5c1f))
+
 ### [0.1.29](https://github.com/Laryd/pdf_singer/compare/v0.1.28...v0.1.29) (2024-01-24)
 
 
