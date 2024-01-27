@@ -30,7 +30,7 @@ const Page = () => {
       // user is synced to the database
       router.push(origin ? `/${origin}` : "/dashboard");
     }
-  }, [error, refetch, isSuccess]);
+  }, [error, refetch, isSuccess, isError, origin, router]);
 
   
 
