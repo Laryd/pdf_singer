@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.32](https://github.com/Laryd/pdf_singer/compare/v0.1.31...v0.1.32) (2024-01-30)
+
+
+### Features
+
+* add restrictions functionality for subscriber and free version ([df94a5d](https://github.com/Laryd/pdf_singer/commit/df94a5dfe2c7e2cc2c2ff47667241929f31ba85d))
+
 ### [0.1.31](https://github.com/Laryd/pdf_singer/compare/v0.1.30...v0.1.31) (2024-01-30)
 
 
