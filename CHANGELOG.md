@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.31](https://github.com/Laryd/pdf_singer/compare/v0.1.30...v0.1.31) (2024-01-30)
+
+
+### Features
+
+* logout logic added ([fa479d0](https://github.com/Laryd/pdf_singer/commit/fa479d045be47d1903e14a7b7f1517ea3f568b17))
+* mobile menu ([7b5f57b](https://github.com/Laryd/pdf_singer/commit/7b5f57b54d75525705ecd3e054164d95a0a766e1))
+* stripe webhook and billing page add ([d4fee60](https://github.com/Laryd/pdf_singer/commit/d4fee60f87a9062c97daf6d421ce05bbe1e08756))
+
 ### [0.1.30](https://github.com/Laryd/pdf_singer/compare/v0.1.29...v0.1.30) (2024-01-26)
 
 
